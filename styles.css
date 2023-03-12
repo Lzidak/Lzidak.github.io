@@ -1,0 +1,41 @@
+body {
+    background: rgb(237, 235, 235);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.centar {
+    color: rgb(3, 43, 79);
+    background: rgb(255, 215, 229);
+    width: 500px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    padding: 100px;
+}
+
+.naslov {
+    text-align: center;
+    font-size: 25px;
+}
+
+.info {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.lista {
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.HM {
+    color: rgb(223, 205, 205);
+    width: 500px;
+    font-style: italic;
+    font-size: 5px;
+    text-align: right;
+}
